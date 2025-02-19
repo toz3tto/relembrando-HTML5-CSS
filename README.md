@@ -1,4 +1,7 @@
-Ola !!!
+
+Português
+
+Olá !!!
 
 Já trabalho com desenvolvimento há algum tempo, mas passei um período sem atuar diretamente com front-end.
 Para manter meus conhecimentos atualizados e não perder os conceitos essenciais, resolvi dedicar-me a alguns projetos pessoais,
